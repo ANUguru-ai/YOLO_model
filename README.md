@@ -1,6 +1,7 @@
 # YOLO_model
 
-We present YOLO, a new approach to object detection. Prior work on object
+ YOLO, a new approach to object detection.YOLO is a clever convolutional neural network (CNN) for doing object detection in real-time.
+ Prior work on object
 detection repurposes classifiers to per- form detection. Instead, we frame object
 detection as a re- gression problem to spatially separated bounding boxes and associated
 class probabilities. A single neural network pre- dicts bounding boxes and class
