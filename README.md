@@ -1,1 +1,4 @@
 # YOLO_model
+
+This project comprises of detection of waste materials using Supervised machine learning approach. YOLO darknet is a machine learning frame work used for implementing the model. The data collected in the form of images are applied to the input of Neural Nets producing image predictions as output. The network is real-time implemented using Rasberri pi 4.The machine learning method is more accurate and faster as  compared to other existing networks like SSD mobile net and faster-Rcnn.YOLO frame work is best in training the sample output, which is a  leading neural network architecture.The model is  used to classify exact five categories such as plastic, paper, metal,  glass, cardboard and collected almost 200 images among each class.The model is trained to 5000 epochs to get better accuracy.This yolo model is tested in yolo-tiny cfg ) which can withstand 320 fps in real time leads to faster detection .
+
